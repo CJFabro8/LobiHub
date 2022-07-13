@@ -21,3 +21,7 @@ end
 if game.PlaceId == 482742811 then
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/Be%20Crushed%20by%20a%20Speeding%20Wall'),true))()
 end
+
+if game.PlaceId == 8506369721 then
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/dig%20to%20china'),true))()
+end
