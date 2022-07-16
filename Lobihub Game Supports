@@ -5,6 +5,13 @@ game.StarterGui:SetCore("SendNotification", {
     Duration = 7;
 })
 
+game.StarterGui:SetCore("SendNotification", {
+    Title    = "LobiHub Denied"; 
+    Text     = "if gui wont load game isnt supported"; 
+    Icon     = "http://www.roblox.com/asset/?id=7351910924"; 
+    Duration = 7;
+})
+
 if game.PlaceId == 6502546031 then
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/Toh%20but%20there%20is%20lava%20rising'),true))()
 end
