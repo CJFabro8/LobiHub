@@ -1,3 +1,10 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title    = "LobiHub Loaded!"; 
+    Text     = "enjoy!"; 
+    Icon     = "http://www.roblox.com/asset/?id=8203617277"; 
+    Duration = 7;
+})
+
 if game.PlaceId == 6502546031 then
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/Toh%20but%20there%20is%20lava%20rising'),true))()
 end
