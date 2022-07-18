@@ -51,3 +51,7 @@ end
 if game.PlaceId == 8438158667 then
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/Slide%20House%20Tumble'),true))()
 end
+
+if game.PlaceId == 9662949425 then
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/Punch%20a%20brick%20wall%20simulator%20New%20One'),true))()
+end
