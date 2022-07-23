@@ -55,3 +55,7 @@ end
 if game.PlaceId == 9662949425 then
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/Punch%20a%20brick%20wall%20simulator%20New%20One'),true))()
 end
+
+if game.PlaceId == 10175705301 then
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/Cant%20Say%20the%20Word'),true))()
+end
